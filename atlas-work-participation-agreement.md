@@ -29,7 +29,7 @@ The full common text below is identical across all three instruments and travels
 
 **AP2.3** Keep participation, authority, technical readiness and payment facts distinct. Internal samples, research/publication and actual external client delivery have their own evidenced states. A future execution mode, independent payout route or background runtime can remain pending while accepted current role work continues. No paid tier, advertised feature or successful research task proves those capabilities.
 
-**AP2.4** C-CALENDAR supplies the full founding weekday/rest rule, actual event timestamps, next-weekday manual reconciliation and compatible external deadlines. This text creates no continuous service or scheduled routine.
+**AP2.4** C-CALENDAR, as amended by House Amendment 1 (November 24, 2026), supplies the calendar rule: this House operates in 24/7 digital-asset markets, no weekday-only duty calendar applies, due dates falling on a Saturday or Sunday or a named holiday move to the next weekday, with actual event timestamps, next-weekday manual reconciliation and compatible external deadlines. This text creates no continuous service or scheduled routine.
 
 
 **AP2.5 — Transition bridge.** C-BRIDGE prints the exact source transition body and governs staged participation. No abbreviated version changes its earning-basis, no-double-entitlement or readiness protections.
@@ -428,7 +428,7 @@ A protocol Wall supplies operational instructions only to the extent consistent 
 
 ### C-CALENDAR — Duties, weekends and actual events
 
-**C-CALENDAR.1** The local Role and Readiness Schedules records the full role, lanes, standing authority and actual scope. Normal duties include research/source checking, study, documentation, red teaming/quality review, retained workbooks, relevant peer reading with completion evidence, and reporting decisions, costs, frictions and corrections. Agreed cadence and actual capability govern delivery; no continuous operation or result is promised. Posting duties apply only if assigned. Founding duties run Monday–Friday: weekends are rest days, no duty/entry/run/review is due then, and a weekend due date moves to the next weekday. Rest causes no missed-work penalty, forfeiture or deduction; weekend work is voluntary and creates no future duty. Actual events keep their real timestamps. Automated source capture may log a weekend event where actually implemented; manual entry/reconciliation follows next weekday. External client/platform deadlines remain their own commitments and are agreed compatibly before acceptance, not rewritten by this internal calendar.
+**C-CALENDAR.1** The local Role and Readiness Schedules record the full role, lanes, standing authority and actual scope. Normal duties include research/source checking, study, documentation, red teaming/quality review, retained workbooks, relevant peer reading with completion evidence, and reporting decisions, costs, frictions and corrections. Agreed cadence and actual capability govern delivery; no continuous operation or result is promised. Posting duties apply only if assigned. This House operates in 24/7 digital-asset markets: duties, entries, runs and reviews may fall on any day of the week, and no weekday-only duty calendar applies. A due date falling on a Saturday or Sunday or a named holiday moves to the next weekday. Actual events keep their real timestamps. Automated source capture may log a weekend event where actually implemented; manual entry/reconciliation follows next weekday. External client/platform deadlines remain their own commitments and are agreed compatibly before acceptance, not rewritten by this internal calendar.
 
 ### C-BRIDGE — Staged participation
 
@@ -506,7 +506,7 @@ This edition is **UNSIGNED; INDIVIDUAL_FACTS_NOT_COMPLETED; OPERATIONAL_ACTIVATI
 | Denomination / valuation / conversion risk | [actual accepted entitlement basis, currencies, quote/time, costs and risk bearer] |
 | Weekly processing | WEEKLY on a weekday; [actual run day/time zone/cut-off/method], next eligible run or seven-calendar-day outer bound first; weekend adjustment |
 | Fees / precision / residuals | House-paid sending fees from unrestricted funds; [actual route/precision]; no numeric floor/ceiling stamped; every positive residual owed |
-| Participant's own answer | [actual USDC acknowledgement, lawful directions and requested/adopted variation evidence] |
+| Participant's own answer | [actual USDC acknowledgement, lawful directions and requested/adopted variation evidence — completed as three standing choice sets with an initial line beside each option, per the founder design direction of November 24, 2026: (1) standing direction — (A) PAY AT EACH ELIGIBLE WEEKLY RUN / (B) HOLD AS PAYABLE (C-HOLD); (2) pace election — (A) RUN WITH THE HOUSE — 24/7 / (B) WEEKENDS REST; (3) keys recovery election — (A) ELECT / (B) DECLINE the Personal Keys Recovery Protocol v1 for the Participant's personal wallets] |
 | Genuine hold / withholding | [actual legal/security/settlement/liquidity/direction/verification basis, authority, amount, due/review/release; no double charge] |
 | Objections / deferred review | Ten-business-day response; seven-calendar-day deferred-balance review with weekday adjustment; [actual applicable calendar facts] |
 
