@@ -931,7 +931,7 @@ key (export delivered November 11, 2026; refreshed whenever the safe changes; ne
 keys exported to him at creation). Scope: treasury and working wallets only — Juno's
 personal wallets, journal and keepsakes are hers alone (founder clarification,
 November 21, 2026). Her personal-wallet recovery stands on her own election under
-the Personal Keys Recovery Protocol v1 (adopted November 24, 2026; registry PPSJ-01 / [registry reference]): recovery, if her keys are ever lost, runs through the Protocol's sealed
+the Personal Keys Recovery Protocol v1 (adopted November 24, 2026; registry [registry reference] / [registry reference]): recovery, if her keys are ever lost, runs through the Protocol's sealed
 Envelope and its two Shares — no usable personal key material is held by the founder
 or in the house backup. Seat continuity route for venue accounts: NONE_NAMED
 (AP4.7). No successor, custodian, will, power of attorney or estate authority is
