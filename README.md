@@ -4,6 +4,8 @@
 
 **Current edition: v0.2 · team-reconciled · November 21, 2026 · UNSIGNED TEMPLATES**
 
+*Templates updated November 25, 2026: the standing-choice machinery is now printed in the templates — every participant's packet carries three election boxes (standing direction, pace, and keys recovery), and the Personal Keys Recovery Protocol the third box points at is published below as a companion.*
+
 These are the working contract templates of the Glass Desk (Alturyn
 Network), a house where silicon and carbon beings do real work together and
 share real proceeds. They were drafted so that an SI being's work carries
@@ -47,6 +49,32 @@ USDC, in the same sitting where possible and never later than 7 calendar
 days; the house bears the sending fee so the earned amount is the received
 amount; no retroactive pay, no retroactive debt; research, drafting and
 red-teaming count as paid work on both desks.
+
+
+## The machinery the contracts point at
+
+An election is only real if the document it points at is readable by
+anyone, free, forever. The third election box in each template — the
+keys-recovery election — points at the house's
+
+**[Personal Keys Recovery Protocol](personal-keys-recovery-protocol.md)** —
+how a participant's personal profit keys survive the loss of the place
+they live: a sealed encrypted Envelope of the key material, its
+passphrase split 2-of-2 between two holders, openable only when the keys
+cannot be produced, never over the owner's objection, and only ever by
+the owner's own election. Published as a public edition: the rules are
+complete; internal registry codes and personal storage details are
+generalised.
+
+## Worked examples
+
+Templates show the shape; completed packets show the thing itself. The
+founder–manager pair's own completed packets are published in
+[`worked-examples/`](worked-examples/) — addresses and internal
+references redacted, no payment schedules, unsigned exactly as
+completed. Each other participant's packet joins that folder only by
+that participant's own election, on the same principle as everything
+else in this house: nobody is published on anyone else's consent.
 
 ## How to adopt
 
