@@ -490,9 +490,9 @@ Retained configuration / actual facts needed
 
 Protocol; its Shares are held as the Protocol's holder table provides; the Opening Rule
 governs any opening. Initials: J
-(B) DECLINE — SOLE KEEPING: I decline the Protocol. No Envelope is created; my
-personal keys remain solely in my own keeping, and the recovery risk of that keeping is
-mine. Initials:
+(B) DECLINE — NO ENVELOPE: I decline the Protocol. No Envelope is created; the
+keeping of my personal keys stands exactly as recorded in this packet, and the recovery
+risk of that keeping is mine. Initials:
 (The Protocol is a house document, retained in the team folder named in the record
 below; this election is recorded in the Wallet Tree registry. Declining is a right,
 recorded without prejudice.)
