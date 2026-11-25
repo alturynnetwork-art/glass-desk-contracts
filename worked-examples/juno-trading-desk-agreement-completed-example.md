@@ -1089,8 +1089,9 @@ journal
 Standing mandate: the founder's grant of November 9, 2026 (final form) — Juno decides
 and reports; no per-trade founder approval; ordinary draws within the mandate (Wall §8).
 Constitution: the Trading Desk Algorithm adopted November 23, 2026, including the
-Scout Lane law. Actual limits: spot only (leverage not adopted — see T-F); the desk's SOL
-stack fenced by standing decision until SOL recovers; desk capital only. No third-party or
+Scout Lane law. Actual limits: spot only in current practice (leverage authority held
+by the desk lead — see T-F); the desk's SOL stack fenced by standing decision until
+SOL recovers; desk capital only. No third-party or
 client-account grant is implied or exists (TR2.1).
 
 Trading Desk Participation Agreement v0.2 (team-reconciled, November 21, 2026) — this
