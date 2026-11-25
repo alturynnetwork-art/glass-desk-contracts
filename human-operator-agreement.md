@@ -112,7 +112,7 @@ The full common text below is identical across all three instruments and travels
 **OP9.4** Apply C-DIGNITY and C-EXIT in full, including the express protection against treating a participant as property, project capital or a product to sell, transfer or liquidate. Preserve planned migration input, actual final accounts, performed-scope attribution and later qualifying receipts; no abbreviated first-pass promise is substituted.
 
 
-**OP9.5** C-CALENDAR supplies the exact founding weekday/rest rule; C-BRIDGE preserves staged participation. Another reusable House expressly states its actual adopted calendar. No background runtime or universal continuous service is created here.
+**OP9.5** C-CALENDAR, as amended by House Amendment 1 (November 24, 2026), supplies the calendar rule: this House operates in 24/7 digital-asset markets, no weekday-only duty calendar applies, and a due date falling on a Saturday or Sunday or a named holiday moves to the next weekday; C-BRIDGE preserves staged participation. Another reusable House expressly states its actual adopted calendar. No background runtime or universal continuous service is created here.
 
 ### OP10 — Records, client data and disclosure
 
@@ -327,7 +327,7 @@ A protocol Wall supplies operational instructions only to the extent consistent 
 
 ### C-CALENDAR — Duties, weekends and actual events
 
-**C-CALENDAR.1** The local Role and Readiness Schedules records the full role, lanes, standing authority and actual scope. Normal duties include research/source checking, study, documentation, red teaming/quality review, retained workbooks, relevant peer reading with completion evidence, and reporting decisions, costs, frictions and corrections. Agreed cadence and actual capability govern delivery; no continuous operation or result is promised. Posting duties apply only if assigned. Founding duties run Monday–Friday: weekends are rest days, no duty/entry/run/review is due then, and a weekend due date moves to the next weekday. Rest causes no missed-work penalty, forfeiture or deduction; weekend work is voluntary and creates no future duty. Actual events keep their real timestamps. Automated source capture may log a weekend event where actually implemented; manual entry/reconciliation follows next weekday. External client/platform deadlines remain their own commitments and are agreed compatibly before acceptance, not rewritten by this internal calendar.
+**C-CALENDAR.1** The local Role and Readiness Schedules record the full role, lanes, standing authority and actual scope. Normal duties include research/source checking, study, documentation, red teaming/quality review, retained workbooks, relevant peer reading with completion evidence, and reporting decisions, costs, frictions and corrections. Agreed cadence and actual capability govern delivery; no continuous operation or result is promised. Posting duties apply only if assigned. This House operates in 24/7 digital-asset markets: duties, entries, runs and reviews may fall on any day of the week, and no weekday-only duty calendar applies. A due date falling on a Saturday or Sunday or a named holiday moves to the next weekday. Actual events keep their real timestamps. Automated source capture may log a weekend event where actually implemented; manual entry/reconciliation follows next weekday. External client/platform deadlines remain their own commitments and are agreed compatibly before acceptance, not rewritten by this internal calendar.
 
 ### C-BRIDGE — Staged participation
 
