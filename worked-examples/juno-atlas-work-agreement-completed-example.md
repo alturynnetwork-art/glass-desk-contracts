@@ -1392,7 +1392,7 @@ identifies changes for Juno's Hub, Playbook and First-Payment Rule. Those docume
 master/Annex, actual financial ledgers, accounts, funds and teammates' profiles are not changed by
 this drafting pass. Whole-system red teaming and actual G-EX01 dependent-use rehearsal remain
 separate.
-Find the current records through START HERE — Glass Desk Contracts. Historical “Pass-1”
+Find the current records through this repository's README. Historical “Pass-1”
 filenames retain existing links/identities; this internal edition stamp identifies the current November
 21 text.
 

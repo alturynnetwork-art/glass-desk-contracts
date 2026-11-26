@@ -1167,12 +1167,12 @@ Trading split
 
 Reconciled opening record (TR5.1), as at the wallet verification of November 23, 2026:
 desk treasury SOL wallet [address redacted] —
-1.817666 SOL · 65.218071 USDC · 3.63308 CARDS; trading SOL wallet
-[address redacted] — 1.000001 SOL; work SOL wallet
-[address redacted] — 0; desk EVM treasury
-[EVM address redacted] — 0.003714 ETH. History: the desk's
-first executed trade is Trade #1 (October 29, 2026): 0.01 SOL → 3.63308 CARDS, still
-held. No unique fully closed thesis has been counted under this packet to date, so no
+[balance recorded in the Private Payment Schedule]; trading SOL wallet
+[address redacted] — [balance recorded in the Private Payment Schedule]; work SOL wallet
+[address redacted] — [balance recorded in the Private Payment Schedule]; desk EVM treasury
+[EVM address redacted] — [balance recorded in the Private Payment Schedule]. History: the desk's
+first executed trade is Trade #1 (October 29, 2026): 0.01 SOL → [CARDS position recorded
+in the Private Payment Schedule], still held. No unique fully closed thesis has been counted under this packet to date, so no
 closed result, determined allocation or accounted H event is recorded yet; opening items
 not evidenced are recorded as unrecorded, not zero (TR5.1), and the first source-linked
 reconciliation under TR7.3 fixes the opening R/H from evidence.
@@ -1285,7 +1285,7 @@ at the manager's hand within that practice.
 Actual record: settlement asset USDC on Solana; route — desk treasury SOL wallet
 [address redacted] (the private route reference is
 held by the keeper). Supported precision: USDC settles at 6 decimal places on Solana
-(observed in the verified treasury balance of 65.218071 USDC, November 23, 2026);
+(observed in the verified treasury balance of [USDC balance recorded in the Private Payment Schedule], November 23, 2026);
 exact determined amounts are kept in the ledger and positive residuals carried forward
 (C-FEES.2). Provider/network: Solana, via the desk's ordinary routes (Jupiter / Coinbase
 per the territory map).
@@ -1795,20 +1795,22 @@ First executed
 trade: Trade #1,
 October 29,
 2026 (0.01 SOL
-→ 3.63308
-CARDS).
+→ [CARDS position
+recorded in the
+Private Payment
+Schedule]).
 Treasury state
 verified
 November 23,
-2026: 1.817666
-SOL · 65.218071
-USDC · 3.63308
-CARDS (treasury
-SOL wallet),
-1.000001 SOL
-(trading wallet),
-0.003714 ETH
-(desk EVM).
+2026:
+[wallet balances
+recorded in the
+Private Payment
+Schedule]
+(treasury SOL
+wallet, trading
+wallet, desk
+EVM).
 
 House wallet
 records; desk
@@ -1848,7 +1850,10 @@ are in T-F).
 Deployable
 capital is the
 USDC seed
-(65.22 USDC);
+([balance
+recorded in the
+Private Payment
+Schedule]);
 the desk's
 SOL stack is
 fenced by
@@ -2185,7 +2190,7 @@ no readiness claim. Access and signer facts are recorded in T-C.
 Adopted method: size is worked back from the invalidation distance in each trade thesis
 (trade-thesis discipline, November 23, 2026); the charting algorithm's constitution
 reference is Brandt's ~1% of equity risked per trade; Scout Lane entries are capped at the
-seed (65.22 USDC) until further word. Inputs: the morning flow (news pass, sector sweep,
+seed ([balance recorded in the Private Payment Schedule]) until further word. Inputs: the morning flow (news pass, sector sweep,
 sector deep dive), the charting run (zones, ATR stop distance, volume/VWAP), the
 confluence classification, and the decision-engine ensemble. State rule (Emotion
 Protocol): on a flagged state, sizes halve or the desk stands down. Kelly: not selected, not
@@ -2304,7 +2309,7 @@ identifies changes for Juno's Hub, Playbook and First-Payment Rule. Those docume
 master/Annex, actual financial ledgers, accounts, funds and teammates' profiles are not changed by
 this drafting pass. Whole-system red teaming and actual G-EX01 dependent-use rehearsal remain
 separate.
-Find the current records through START HERE — Glass Desk Contracts. Historical “Pass-1”
+Find the current records through this repository's README. Historical “Pass-1”
 filenames retain existing links/identities; this internal edition stamp identifies the current November
 21 text.
 

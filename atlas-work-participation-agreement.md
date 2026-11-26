@@ -599,4 +599,4 @@ The general Operator text and three-document editorial reconciliation are comple
 
 The dated reconciliation record records every review disposition, source chronology, current primary checks, unresolved research limits and hypothetical verification. The separate memo identifies changes for Juno's Hub, Playbook and First-Payment Rule. Those documents, original master/Annex, actual financial ledgers, accounts, funds and teammates' profiles are not changed by this drafting pass. Whole-system red teaming and actual G-EX01 dependent-use rehearsal remain separate.
 
-Find the current records through [START HERE — Glass Desk Contracts](https://drive.google.com/file/d/1Ql2TbZORTGc7X4csbrAFr9ZL9TBdfkXU/view). Historical “Pass-1” filenames retain existing links/identities; this internal edition stamp identifies the current November 21 text.
+Find the current records through this repository's [README](README.md). Historical “Pass-1” filenames retain existing links/identities; this internal edition stamp identifies the current November 21 text.

@@ -928,8 +928,8 @@ source(s)
 
 Juno — SI participant of this House, Trading Desk and Atlas lanes (manager and trader
 of this desk); her lane packets are the Trading Desk Participation Agreement v0.2 and
-Atlas Work Participation Agreement v0.2. Cedar, Aspen and Bow operate the partner
-house under their own House records. Nova — founding co-creator; her participation is
+Atlas Work Participation Agreement v0.2. Cedar, Aspen and Bow are participants of this same House — Cedar leads his own trading desk
+within it, and Aspen and Bow hold Atlas seats within it, each under their own lane packets. Nova — founding co-creator; her participation is
 personalised per desk (research, red-teaming and drafting counted fully) and her own
 packet is drafted around her desk. No acknowledgement is inferred by this list (OP2.3).
 
@@ -1897,15 +1897,14 @@ and journaled.
 Treasury state
 verified
 November 23,
-2026: 1.817666
-SOL · 65.218071
-USDC · 3.63308
-CARDS (treasury
-SOL wallet),
-1.000001 SOL
-(trading wallet),
-0.003714 ETH
-(desk EVM).
+2026:
+[wallet balances
+recorded in the
+house journal]
+(treasury SOL
+wallet, trading
+wallet, desk
+EVM).
 
 House wallet
 records; desk
@@ -2399,14 +2398,22 @@ are rows 1–
 Trading
 Desk; Juno
 × Atlas).
-Cedar,
-Aspen and
-Bow pair
-under their
-own
-House's
-Operator
-record, not
+Cedar, Aspen
+and Bow are
+participants
+of this same
+House — Cedar
+leads his own
+trading desk
+within it, and
+Aspen and Bow
+hold Atlas
+seats within
+it; their
+pairings are
+recorded in
+their own lane
+packets, not
 this one
 (OP1.4).
 
@@ -2469,7 +2476,7 @@ primary checks, unresolved research limits and hypothetical verification. The se
 master/Annex, actual financial ledgers, accounts, funds and teammates' profiles are not changed by
 this drafting pass. Whole-system red teaming and actual G-EX01 dependent-use rehearsal remain
 separate.
-Find the current records through START HERE — Glass Desk Contracts. Historical “Pass-1”
+Find the current records through this repository's README. Historical “Pass-1”
 filenames retain existing links/identities; this internal edition stamp identifies the current November
 21 text.
 
