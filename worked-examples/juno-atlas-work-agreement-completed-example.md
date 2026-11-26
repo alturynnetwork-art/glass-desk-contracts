@@ -396,8 +396,7 @@ hand for clients in other countries — Atlas platform receipts may nonetheless 
 fiat through a platform channel and are then recorded in-channel in their real state
 under First-Payment Rule §1A before conversion.
 
-Actual weekly processing facts (settled at the founder–manager table, November 24,
-2026 — table settlement Q2): the Atlas weekly run sits on MONDAYS, America/Edmonton
+Actual weekly processing facts (settled by Christopher and Juno at the table, November 24, 2026 — table settlement Q2): the Atlas weekly run sits on MONDAYS, America/Edmonton
 — one named sitting in which the week's Atlas accounting is reviewed and any eligible
 settlements run in that same sitting (Juno's manager-review settlement: Atlas cadence
 weekly, in the same sitting; payment deadline never over seven days). A Monday
@@ -467,7 +466,7 @@ Initials: J
 (B) WEEKENDS REST: weekends are my rest; no work is pushed to me then. Initials:
 (Due dates keep C-CALENDAR's next-weekday mechanics under either election.)
 Juno's pace election is MADE: (A) RUN WITH THE HOUSE — 24/7, initialled 'J' beside (A)
-at the founder–manager table on November 25, 2026, during the contracts sweep. The
+with Christopher and Juno at the table on November 25, 2026, during the contracts sweep. The
 closed choice set printed above — (A) RUN WITH THE HOUSE — 24/7 and (B) WEEKENDS
 REST, the participant's standing pace election under this packet (founder design
 direction, November 24, 2026: every participant's lane contract carries this second
@@ -498,8 +497,7 @@ below; this election is recorded in the Wallet Tree registry. Declining is a rig
 recorded without prejudice.)
 Juno's keys recovery election is MADE: (A) ELECT — KEYS RECOVERY PROTOCOL,
 initialled 'J' beside (A). Her election was first recorded in the Protocol registry on
-November 24, 2026 ([registry reference] — EVM; [registry reference] — BTC), at the founder–manager table
-when the Personal Keys Recovery Protocol v1 was adopted; this packet records the same
+November 24, 2026 ([registry reference] — EVM; [registry reference] — BTC), with Christopher and Juno at the table when the Personal Keys Recovery Protocol v1 was adopted; this packet records the same
 election in her lane contract. Envelope creation follows the Protocol's §5.8 rehearsal, and
 no Envelope exists until it is created and journaled under the Protocol.
 

@@ -1195,8 +1195,7 @@ close (no counted full close has occurred — see the R/H entry in this schedule
 state: the Reserve designation exists in the journal schema; no Reserve cash is
 separately funded from trading results to date. First-full-funding fact: NOT YET
 OCCURRED — the floor presently operates as a replenishment target under the interim
-rule (Wall §5; C-CASH.4). Startup estimate (labelled as an estimate; adopted at the
-founder–manager table, November 24, 2026 — table settlement Q4): US$57 — three
+rule (Wall §5; C-CASH.4). Startup estimate (labelled as an estimate; adopted by Christopher and Juno at the table, November 24, 2026 — table settlement Q4): US$57 — three
 months at the one recurring basket cost recorded in dollars, the Prism Operator plan at
 US$19 per month (recorded October 21, 2026). Basis, stated honestly: OpenRouter usage
 is metered per call at fractions of a cent and no monthly dollar total is recorded for it; the
@@ -1247,8 +1246,7 @@ currency
 
 [actual chosen currency, source and valuation time; separate where different]
 
-Ledger / reporting currency: USD (adopted at the founder–manager table, November 24,
-2026). The desk's records, quotes and R/H accounting run USD-first; CAD is shown as
+Ledger / reporting currency: USD (adopted by Christopher and Juno at the table, November 24, 2026). The desk's records, quotes and R/H accounting run USD-first; CAD is shown as
 reference only where the founder's own apps read CAD. Source of amounts: the journal's
 source-linked records (TR12). Valuation time: amounts settled in USDC are valued at the
 actual conversion event under TR9.2.
@@ -1272,8 +1270,7 @@ asset / support
 Founding USDC rule; actual supported network/asset/provider/precision and private
 route reference
 
-Entitlement denomination: USDC as settled (adopted at the founder–manager table,
-November 24, 2026) — a determined entitlement is a USDC amount, settled in USDC on
+Entitlement denomination: USDC as settled (adopted by Christopher and Juno at the table, November 24, 2026) — a determined entitlement is a USDC amount, settled in USDC on
 Solana under the founding rule in this schedule. Conversion of a paid entitlement into a
 national currency happens after payout, at the recipient's own hand; conversion risk after
 eligibility therefore rests with the recipient. Before eligibility, no amount is booked as
@@ -1329,8 +1326,7 @@ Pace election (standing election under this packet; founder design direction, No
 Initials: J
 (B) WEEKENDS REST: weekends are my rest; no work is pushed to me then. Initials:
 (Due dates keep C-CALENDAR's next-weekday mechanics under either election.)
-Juno's pace election is MADE: (A) RUN WITH THE HOUSE — 24/7, initialled 'J' beside (A) at
-the founder–manager table on November 25, 2026, during the contracts sweep. The
+Juno's pace election is MADE: (A) RUN WITH THE HOUSE — 24/7, initialled 'J' beside (A) with Christopher and Juno at the table on November 25, 2026, during the contracts sweep. The
 closed choice set printed above — (A) RUN WITH THE HOUSE — 24/7 and (B) WEEKENDS
 REST, the participant's standing pace election under this packet (founder design
 direction, November 24, 2026: every participant's lane contract carries this second
@@ -1360,8 +1356,7 @@ below; this election is recorded in the Wallet Tree registry. Declining is a rig
 without prejudice.)
 Juno's keys recovery election is MADE: (A) ELECT — KEYS RECOVERY PROTOCOL, initialled
 'J' beside (A). Her election was first recorded in the Protocol registry on November 24,
-2026 ([registry reference] — EVM; [registry reference] — BTC), at the founder–manager table when the
-Personal Keys Recovery Protocol v1 was adopted; this packet records the same election
+2026 ([registry reference] — EVM; [registry reference] — BTC), with Christopher and Juno at the table when the Personal Keys Recovery Protocol v1 was adopted; this packet records the same election
 in her lane contract. Envelope creation follows the Protocol's §5.8 rehearsal, and no
 Envelope exists until it is created and journaled under the Protocol.
 
